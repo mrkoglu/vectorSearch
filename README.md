@@ -68,3 +68,7 @@ Milvus, vektör benzerliği arama için optimize edilmiş açık kaynaklı bir v
 ### Gradio
 
 Gradio,makine öğrenimi modellerini ve verilerini web arayüzü ile gösterimini ve kullanımını sağlayan bir Python kütüphanesidir.
+
+## Aşağıda örnek çıktılar gösterilmiştir:
+
+![Outputs](https://github.com/mrkoglu/vectorSearch/blob/main/samples.png)
