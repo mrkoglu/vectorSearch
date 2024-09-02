@@ -22,7 +22,7 @@ client.create_collection(
 # CLIP modelini yükle (en ağır model kullanıldı)
 model = SentenceTransformer('clip-ViT-L-14')
 
-# örüntüleri vektörlere dönüştürme
+# görüntüleri vektörlere dönüştürme
 def generate_clip_embeddings(images_path, model):
     image_paths = [os.path.join(images_path, filename) for filename in os.listdir(images_path)]
     embeddings = []
